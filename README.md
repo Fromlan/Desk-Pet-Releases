@@ -9,7 +9,6 @@
 <p align="center">
   <strong><a href="https://github.com/Fromlan/Desk-Pet-Releases/releases/latest/download/MochiFox.Desktop-win-x64-Setup.exe">下载 Windows x64 安装包</a></strong>
   · <a href="https://github.com/Fromlan/Desk-Pet-Releases/releases">版本记录</a>
-  · <a href="https://github.com/Fromlan/Desk-Pet">项目源码</a>
 </p>
 
 <p align="center">
@@ -36,4 +35,4 @@
 
 ## 反馈
 
-反馈时请附上麻薯版本、Windows 版本和复现步骤，便于定位问题。[提交问题](https://github.com/Fromlan/Desk-Pet/issues/new)
+反馈时请附上麻薯版本、Windows 版本和复现步骤，便于定位问题。[提交问题](https://github.com/Fromlan/Desk-Pet-Releases/issues/new)
